@@ -1,3 +1,4 @@
+
 fun main() {
     val firstWord = "SMK "
     val middleWord = "Telkom "
@@ -10,8 +11,7 @@ fun main() {
     val lastword = "panjang "
     print(firstword + middleword + lastword)
 
-    val valueA:Int = 17
-    val valueB = 21
+    val valueA:Int = 12
+    val valueB = 15
     print(valueA * valueB)
-
 }
